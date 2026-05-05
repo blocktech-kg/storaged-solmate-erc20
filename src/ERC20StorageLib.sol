@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0-only
+// Copyright (C) 2025 Stanislav Sorokin
 pragma solidity >=0.8.0;
 
 /// @notice Library for accessing ERC20 storage via fixed slot.

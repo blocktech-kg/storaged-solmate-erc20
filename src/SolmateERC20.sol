@@ -1,4 +1,6 @@
 // SPDX-License-Identifier: AGPL-3.0-only
+// Copyright (C) 2025 Stanislav Sorokin
+// Based on https://github.com/transmissions11/solmate
 pragma solidity >=0.8.0;
 
 import {ERC20StorageLib} from "./ERC20StorageLib.sol";
